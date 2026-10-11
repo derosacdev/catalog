@@ -1,0 +1,17 @@
+.header {
+  color: rgb(150, 0, 164);
+  font-weight: bold;
+  text-align: center;
+}
+.basic {
+  color: rgb(243, 226, 235);
+  text-align: center;
+}
+.bar {
+  border: none;               
+  height: 2px;                
+  background-color: rgb(243, 226, 235); 
+  width: 95%;                 
+  margin: 10px auto;         
+  border-radius: 2px;  
+}
